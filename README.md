@@ -113,11 +113,17 @@ If you want to modify or extend the analysis, simply open the notebook and adjus
 - Visualizations:
 
   Correlation heatmap to understand feature relationships.
-
+  
+  <img src="images/correlation%20map.png" width="650">
+  
   Scree plot to determine optimal PCA components.
-
+  
+  ![Scree Plot](images/scree%20plot.png)
+  
   PCA projection to visualize transformed data.
-
+ 
+  <img src="images/PCA%20result%20.png" width="650">
+  
 - Feature Importance Ranking: The notebook provides insights into which features contribute the most to classification accuracy.
 
 - Model Performance: Random Forest achieved a final accuracy of 66.67%, improving from a baseline of 51.63%.
