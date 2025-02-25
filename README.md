@@ -41,6 +41,7 @@ git clone https://github.com/TsungTseTu122/MachineLearning-species-classificatio
 `
 cd MachineLearning-species-classification-project
 `
+
 2. Set Up a Virtual Environment (If needed)
 For window users:
 `
@@ -52,10 +53,12 @@ For macOS/Linux users:
 python3 -m venv venv
 source venv/bin/activate
 `
+
 3. Install dependencies
 `
 pip install -r requirements.txt
 `
+
 ## Dataset overview
 The dataset consists of thorax and wing trait measurements from biological samples. The features include:
 
