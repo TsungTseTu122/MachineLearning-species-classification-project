@@ -33,9 +33,11 @@ MachineLearning-species-classification-project
 
 ## Setup
 1. Clone the repository
+
 `
 git clone https://github.com/TsungTseTu122/MachineLearning-species-classification-project.git
 `
+
 `
 cd MachineLearning-species-classification-project
 `
