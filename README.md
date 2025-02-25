@@ -44,18 +44,21 @@ cd MachineLearning-species-classification-project
 
 2. Set Up a Virtual Environment (If needed)
 For window users:
+
 `
 python -m venv venv
 venv\Scripts\activate
 `
 
 For macOS/Linux users:
+
 `
 python3 -m venv venv
 source venv/bin/activate
 `
 
 3. Install dependencies
+
 `
 pip install -r requirements.txt
 `
